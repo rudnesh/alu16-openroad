@@ -1,0 +1,4 @@
+alu16_sim
+*.vcd
+*.fst
+*.log
